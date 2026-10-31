@@ -18,21 +18,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Entra Identity and access management (IAM)Lab
-Azure break glass account setup Lab
-Windows Admin Center permission error Lab
-Storage Account, LAW, And Sentinel Setup Lab
-Azure KQL Analysis Of Possible Threat  Lab
-Simulated Threat Detection Rules Sentinel Lab
-Microsoft Defender For Endpoint Lab
-DFE Simulate Attack, Isolation, Live Response Lab
-PowerShell Incident Logs/Defender Analysis Lab
-Defender For Endpoint Live Response Lab
+## Skills
+Entra Identity and access management (IAM) Lab
+Azure break glass account setup
+Windows Admin Center permission error (Read)
+Storage Account, LAW, And Sentinel Setup
+Azure KQL Analysis
+Azure KQL Analysis Of Possible Threat
+Simulated Threat Detection Rules Sentinel
+Microsoft Defender For Endpoint
+DFE Simulate Attack,Isolation,Live Response
+PowerShell Incident Logs/Defender Analysis
+Defender For Endpoint Live Response
+
 
 
 
