@@ -35,8 +35,12 @@ Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 Network
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
   
 Endpoint
+
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
  
 SIEM 
 
