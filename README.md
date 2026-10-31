@@ -1,5 +1,3 @@
-
-Hello, I'm C
 # Hello, I'm a Cybersecurity Professional 👋
 
 <a href="https://www.linkedin.com/www.linkedin.com/in/mame-seynabou-sene/">
@@ -8,10 +6,7 @@ Hello, I'm C
 
 ## About Me
 
-I am an IT and cybersecurity professional specializing
-in system administration, security hardening,
-vulnerability assessments, and DISA STIG compliance.
-
+SOC Analyst with years of expertise in monitoring, investigating, and responding to security incidents. Proficient in threat and cloud investigations and managing complex security incidents from detection to remediation. I combine my technical expertise with a strong foundation in customer service and support, alongside an academic background in Sociology. This unique blend allows me to analyze the human motivations behind cyber threats and social engineering tactics while providing exceptional, clear communication to stakeholders during critical incident
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -28,8 +23,20 @@ SIEM Implementation and Log Analysis	Detection Lab
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
 Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
+Entra Identity and access management (IAM)Lab
+Azure break glass account setup Lab
+Windows Admin Center permission error Lab
+Storage Account, LAW, And Sentinel Setup Lab
+Azure KQL Analysis Of Possible Threat  Lab
+Simulated Threat Detection Rules Sentinel Lab
+Microsoft Defender For Endpoint Lab
+DFE Simulate Attack, Isolation, Live Response Lab
+PowerShell Incident Logs/Defender Analysis Lab
+Defender For Endpoint Live Response Lab
+
+
+
+
 Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
