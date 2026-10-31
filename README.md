@@ -43,7 +43,12 @@ Network
 Endpoint
  
 SIEM 
+
+
 [![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/sentinel/overview)
+
+
+
 Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
