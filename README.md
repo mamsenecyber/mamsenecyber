@@ -1,4 +1,4 @@
-**Hello, I'm Mame Seynabou SENE, a Cybersecurity Professional** 👋
+**Hello, I'm Mame Seynabou SENE,A Cybersecurity Professional** 👋
 
 <a href="https://www.linkedin.com/www.linkedin.com/in/mame-seynabou-sene/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
