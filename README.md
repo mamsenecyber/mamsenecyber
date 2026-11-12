@@ -14,15 +14,16 @@ All projects and security assessments included in this portfolio were conducted 
 
 Built an Azure security lab to gain hands-on experience in identity and access management, threat detection, and incident response using Microsoft Sentinel and Microsoft Defender for Endpoint.
 
-Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions.
-Set up an emergency account for backup administrative access.
-Managed Windows Admin Center permissions and troubleshot access issues.
-Configured Azure Storage, Log Analytics Workspace, and Microsoft Sentinel for security monitoring.
-Used KQL to analyze security events and look for suspicious sign-in activity.
-Created and tested Sentinel analytics rules using simulated threat scenarios.
-Ran controlled attack simulations and practiced isolating endpoints with Microsoft Defender for Endpoint.
-Reviewed PowerShell activity and incident logs to better understand potential threats.
-Used Defender Live Response to investigate endpoints remotely.
+	Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions.
+	Set up an emergency account for backup administrative access.
+	Managed Windows Admin Center permissions and troubleshot access issues.
+	Configured Azure Storage, Log Analytics Workspace, and Microsoft Sentinel for security monitoring.
+	Used KQL to analyze security events and look for suspicious sign-in activity.
+	Created and tested Sentinel analytics rules using simulated threat scenarios.
+	Ran controlled attack simulations and practiced isolating endpoints with Microsoft Defender for Endpoint.
+	Reviewed PowerShell activity and incident logs to better understand potential threats.
+	Used Defender Live Response to investigate endpoints remotely.
+
 
 
 
