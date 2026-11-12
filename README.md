@@ -11,6 +11,7 @@ Through hands-on projects, I have developed practical experience using a range o
 All projects and security assessments included in this portfolio were conducted in authorized, controlled lab environments for educational and professional development purposes.
 
 🔐 Cybersecurity Projects
+
 Built an Azure security lab to gain hands-on experience in identity and access management, threat detection, and incident response using Microsoft Sentinel and Microsoft Defender for Endpoint.
 
 Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions.
