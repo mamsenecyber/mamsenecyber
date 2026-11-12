@@ -14,9 +14,7 @@ All projects and security assessments included in this portfolio were conducted 
 
 Built an Azure security lab to gain hands-on experience in identity and access management, threat detection, and incident response using Microsoft Sentinel and Microsoft Defender for Endpoint.
 
-	Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions.
-
-	Set up an emergency account for backup administrative access.
+	Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions, and Set up an emergency account for backup administrative access.
 
 	Managed Windows Admin Center permissions and troubleshot access issues.
 
