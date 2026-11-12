@@ -1,33 +1,27 @@
-# Hello, I'm a Cybersecurity Professional 👋
+# Hello, I'm Mame Seynabou SENE, a Cybersecurity Professional 👋
 
 <a href="https://www.linkedin.com/www.linkedin.com/in/mame-seynabou-sene/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 ## About Me
+CompTIA Security+ certified, cybersecurity professional with hands-on experience in vulnerability assessments, network security, threat monitoring, cloud security, web application testing, and security incident analysis. Passionate about identifying security risks, investigating threats, and strengthening systems against cyberattacks.
 
-SOC Analyst with years of expertise in monitoring, investigating, and responding to security incidents. Proficient in threat and cloud investigations and managing complex security incidents from detection to remediation. I combine my technical expertise with a strong foundation in customer service and support, alongside an academic background in Sociology. This unique blend allows me to analyze the human motivations behind cyber threats and social engineering tactics while providing exceptional, clear communication to stakeholders during critical incident
+Through hands-on projects, I have developed practical experience using a range of cybersecurity tools and technologies, including Kali Linux, Nmap, Greenbone, Wireshark, Microsoft Azure.
+All projects and security assessments included in this portfolio were conducted in authorized, controlled lab environments for educational and professional development purposes.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+🔐 Cybersecurity Projects
+Built an Azure security lab to gain hands-on experience in identity and access management, threat detection, and incident response using Microsoft Sentinel and Microsoft Defender for Endpoint.
 
-Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-
-## Skills
-Entra Identity and access management (IAM) Lab
-Azure break glass account setup
-Windows Admin Center permission error (Read)
-Storage Account, LAW, And Sentinel Setup
-Azure KQL Analysis
-Azure KQL Analysis Of Possible Threat
-Simulated Threat Detection Rules Sentinel
-Microsoft Defender For Endpoint
-DFE Simulate Attack,Isolation,Live Response
-PowerShell Incident Logs/Defender Analysis
-Defender For Endpoint Live Response
+Created employee accounts in Microsoft Entra ID and assigned least-privilege RBAC permissions.
+Set up an emergency account for backup administrative access.
+Managed Windows Admin Center permissions and troubleshot access issues.
+Configured Azure Storage, Log Analytics Workspace, and Microsoft Sentinel for security monitoring.
+Used KQL to analyze security events and look for suspicious sign-in activity.
+Created and tested Sentinel analytics rules using simulated threat scenarios.
+Ran controlled attack simulations and practiced isolating endpoints with Microsoft Defender for Endpoint.
+Reviewed PowerShell activity and incident logs to better understand potential threats.
+Used Defender Live Response to investigate endpoints remotely.
 
 
 
