@@ -10,7 +10,7 @@ CompTIA Security+ certified, cybersecurity professional with hands-on experience
 Through hands-on projects, I have developed practical experience using a range of cybersecurity tools and technologies, including Kali Linux, Nmap, Greenbone, Wireshark, Microsoft Azure.
 All projects and security assessments included in this portfolio were conducted in authorized, controlled lab environments for educational and professional development purposes.
 
-🔐 Cybersecurity Projects
+🔐**Cybersecurity Projects**
 
 Built an Azure security lab to gain hands-on experience in identity and access management, threat detection, and incident response using Microsoft Sentinel and Microsoft Defender for Endpoint.
 
